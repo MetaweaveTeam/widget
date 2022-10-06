@@ -22,6 +22,7 @@ Open http://localhost:3000/ on your favorite web browser.
 ## Developer resources
 
 - Query arweave txs: [ar-gql](https://www.npmjs.com/package/ar-gql)
+- ar-gql dev tool + documentation: [arweave.net/graphql](https://arweave.net/graphql)
 - Get tx data: [arweave-js](https://github.com/ArweaveTeam/arweave-js#get-transaction-data)
 - Arweave Account data protocol: [arweave-account](https://github.com/MetaweaveTeam/arweave-account/blob/main/README.md#data-protocol)
 
