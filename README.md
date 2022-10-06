@@ -1,4 +1,4 @@
-# __Latest Arweave Account__ Widget 
+# __Latest Arweave Account__ - widget 
 
 __Latest Arweave Account__ is a [Permapages Widget](https://notes.arweave.dev/#/notes/CB9wDNrR7pdCB-BTepoYNWRUOT5RlB7KH2PPeOXow24) built with typescript, [preact](https://preactjs.com/) and [daisyui](https://daisyui.com/).
 
