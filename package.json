@@ -4,9 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "rollup -c",
-    "example": "cp dist/widget.js example && w3 example",
-    "deploy": "node deploy.mjs"
+    "start": "rollup -c && w3 .",
+    "build": "rollup -c"
   },
   "devDependencies": {
     "@bundlr-network/client": "^0.7.15",
