@@ -10,7 +10,7 @@ This widget displays the latest [Arweave Account](https://github.com/MetaweaveTe
 
 ```sh
 $ git clone git@github.com:MetaweaveTeam/laa-widget.git
-$ cd widget
+$ cd laa-widget
 $ npm i
 $ npm start
 ```
